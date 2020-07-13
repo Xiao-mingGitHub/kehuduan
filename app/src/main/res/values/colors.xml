@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--标题栏色-->
+    <color name="colorPrimary">#008577</color>
+    <!--    状态栏色-->
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <!--    系统提示框色-->
+    <color name="colorAccent">#07c462</color>
+
+    <!--    软件背景浅灰-->
+    <color name="color_background2">#F0F0F0</color>
+    <!--    软件背景灰-->
+    <color name="color_background">#E9E9E9</color>
+    <!--    查册文本灰-->
+    <color name="colortext_search2">#747474</color>
+    <!--    查册文本黑色-->
+    <color name="colorText_search">#1B1B1B</color>
+    <!--    查册水印文本色-->
+    <color name="colorWatertext">#F0F0F0</color>
+    <!--    查册抵押警告色-->
+    <color name="colorRed">#FF0000</color>
+    <!--    登录按钮绿色-->
+    <color name="colorGreen">#07c462</color>
+    <!--    登录背景色-->
+    <color name="colorblack">#000000</color>
+    <!--    登录字体蓝-->
+    <color name="colorblue">#3d5777</color>
+    <!--    登录按钮字体灰-->
+    <color name="colorlogin">#DADADA</color>
+    <!--    登录按钮字体绿2-->
+    <color name="colorgreen2">#07c160</color>
+
+    <color name="color247">#F8F8F8</color>
+    <color name="colorxcx">#a2a2a2</color>
+    <color name="color237">#ECECEC</color>
+    <color name="color55">#2d2b38</color>
+    <color name="colorx102">#686868</color>
+
+    <color name="colorx200">#C7C7C7</color>
+    <color name="colorx150">#999999</color>
+    <!--    登录按钮字体蓝-->
+    <color name="colorblue2">#5190dd</color>
+    <color name="colorbeijing">#f1f8fe</color>
+
+
+
+<!--    进度颜色-->
+    <color name="colorjindu1">#129f41</color>
+    <color name="colorjindu2">#3428c3</color>
+    <color name="colorjindu3">#f8be05</color>
+    <color name="colorjindu4">#513e03</color>
+    <color name="colorjindu5">#000000</color>
+    <color name="colorjindu6">#131514</color>
+    <color name="colorfen">#c83046</color>
+
+
+
+</resources>

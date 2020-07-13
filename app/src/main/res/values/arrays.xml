@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PickerView">
+        <attr name="lineColor" format="color|reference"/>
+        <attr name="selectedTextColor" format="color|reference"/>
+        <attr name="textSize" format="dimension"/>
+    </declare-styleable>
+    <array name="main2_name">
+        <item>我的账户</item>
+        <item>我的熟人</item>
+        <item>我的二维码</item>
+        <item>我的账户</item>
+        <item>我的熟人</item>
+        <item>我的二维码</item>
+        <item>我的账户</item>
+        <item>我的熟人</item>
+        <item>我的二维码</item>
+        <item>我的账户</item>
+        <item>我的熟人</item>
+        <item>我的二维码</item>
+        <item>我的账户</item>
+        <item>我的熟人</item>
+        <item>我的二维码</item>
+    </array>
+    <array name="main2_icon">
+        <item>@drawable/liaot1</item>
+        <item>@drawable/liaot2</item>
+        <item>@drawable/liaot3</item>
+        <item>@drawable/liaot1</item>
+        <item>@drawable/liaot2</item>
+        <item>@drawable/liaot3</item>
+        <item>@drawable/liaot1</item>
+        <item>@drawable/liaot2</item>
+        <item>@drawable/liaot3</item>
+        <item>@drawable/liaot1</item>
+        <item>@drawable/liaot2</item>
+        <item>@drawable/liaot3</item>
+        <item>@drawable/liaot1</item>
+        <item>@drawable/liaot2</item>
+        <item>@drawable/liaot3</item>
+    </array>
+
+
+    <array name="diquicon">
+        <item>@drawable/fengqu_cc</item>
+        <item>@drawable/fengqu_gm</item>
+        <item>@drawable/fengqu_nh</item>
+        <item>@drawable/fengqu_sd</item>
+        <item>@drawable/fengqu_ss</item>
+    </array>
+
+
+
+    <array name="touxiang">
+        <item>@drawable/touxiang1</item>
+        <item>@drawable/touxiang2</item>
+        <item>@drawable/touxiang3</item>
+        <item>@drawable/touxiang4</item>
+        <item>@drawable/touxiang5</item>
+        <item>@drawable/touxiang6</item>
+        <item>@drawable/touxiang7</item>
+        <item>@drawable/touxiang8</item>
+        <item>@drawable/touxiang9</item>
+        <item>@drawable/touxiang10</item>
+        <item>@drawable/touxiang11</item>
+        <item>@drawable/touxiang12</item>
+        <item>@drawable/touxiang13</item>
+        <item>@drawable/touxiang14</item>
+        <item>@drawable/touxiang15</item>
+        <item>@drawable/touxiang16</item>
+        <item>@drawable/touxiang17</item>
+        <item>@drawable/touxiang18</item>
+        <item>@drawable/touxiang19</item>
+        <item>@drawable/touxiang20</item>
+        <item>@drawable/touxiang21</item>
+    </array>
+
+    <array name="user_name">
+        <item>蔡炳贞</item>
+        <item>蔡道亮</item>
+        <item>蔡杰</item>
+        <item>Bank宇</item>
+        <item>beyunsky</item>
+        <item>BM Studio</item>
+        <item>Breath</item>
+        <item>昌哥</item>
+        <item>陈琛</item>
+        <item>随大寞</item>
+        <item>Dammy</item>
+        <item>淡淡的，浅笑</item>
+        <item>Danny</item>
+        <item>单色温暖_Ting</item>
+        <item>大头</item>
+        <item>豆腐</item>
+        <item>斗志昂扬</item>
+        <item>D-sunny</item>
+        <item>飞马行空</item>
+        <item>风力无情$雨里有意</item>
+        <item>Gennaro（小黑鞋）</item>
+    </array>
+
+
+</resources>
